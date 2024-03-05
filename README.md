@@ -1,2 +1,2 @@
-# nathanacuevas.github.io
+# nathanacuevas
 Portfolio for Nathan A Cuevas
